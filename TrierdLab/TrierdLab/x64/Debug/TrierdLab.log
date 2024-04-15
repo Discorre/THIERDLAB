@@ -1,0 +1,10 @@
+﻿  SECOND.cpp
+C:\Users\egori\projectes\TrierdLab\SECOND.cpp(82,17): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\SECOND.cpp(159,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\SECOND.cpp(169,31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\SECOND.cpp(179,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\SECOND.cpp(221,31): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\SECOND.cpp(311,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\SECOND.cpp(378,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\egori\projectes\TrierdLab\SECOND.cpp(94,1): warning C4715: gost_31_10_94: значение возвращается не при всех путях выполнения
+  TrierdLab.vcxproj -> C:\Users\egori\projectes\TrierdLab\x64\Debug\TrierdLab.exe
